@@ -132,7 +132,7 @@ const Hero = () => {
         </h1>
         <div 
           ref={boxRef}
-          className="w-32 h-32 bg-gradient-to-br from-orange-800 to-red-900 rounded-full shadow-2xl drop-shadow-lg shadow-black mx-auto mb-8 flex items-center justify-center cursor-pointer"
+          className="w-32 h-32 bg-gradient-to-br from-red-600 to-black rounded-full shadow-2xl drop-shadow-lg shadow-black mx-auto mb-8 flex items-center justify-center cursor-pointer hover:shadow-2xl hover:shadow-black"
         >
         </div>
         <p 
